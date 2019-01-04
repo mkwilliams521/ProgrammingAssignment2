@@ -37,6 +37,4 @@ cacheSolve <- function(x, ...) {
   invrs
 }
 
-mtrx1 <- matrix(c(1, 2, 3, 4), 2, 2)
-solve(mtrx1)
 
